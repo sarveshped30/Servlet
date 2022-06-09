@@ -1,5 +1,5 @@
 /* Project: Creating FirstServlet
- * CFP assignment
+ * CFP Assignment
  * Author: Sarvesh Pednekar */
 package com.bridgelabz;
 
